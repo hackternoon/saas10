@@ -1,7 +1,7 @@
 saas10
 ======
 
-Rails application for Hackternooner Students of Coursera Berkeley SaaS class.
+This is a Rails application for Hackternooner Students of Coursera Berkeley SaaS class.
 
 I started this application on 2012-05-26.
 
